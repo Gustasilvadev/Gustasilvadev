@@ -2,7 +2,7 @@
 
 
 ![Gustavo Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustasilvadev&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustasilvadev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustasilvadev&layout=compact&bg_color=00000000)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
