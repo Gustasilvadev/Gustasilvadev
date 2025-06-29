@@ -33,7 +33,7 @@ Atualmente, estou sempre estudando novas ferramentas e melhores práticas para m
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustasilvadev&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustasilvadev&layout=compact&bg_color=00000000"/>
+  <img src="./output/linguagens.svg" width="500px" alt="Gráfico de linguagens mais usadas" />
 </div>
 
 ---
