@@ -1,33 +1,45 @@
 import requests
 import matplotlib.pyplot as plt
 from collections import Counter
+import os
 
-# --- CONFIG ---
 GITHUB_USERNAME = "Gustasilvadev"
 
-# --- API ---
 url = f"https://api.github.com/users/{GITHUB_USERNAME}/repos"
 response = requests.get(url)
 repos = response.json()
 
-# --- Contar linguagens ---
 languages = [repo["language"] for repo in repos if repo["language"]]
 count = Counter(languages)
 
-# --- Gráfico ---
 labels = list(count.keys())
 sizes = list(count.values())
 
-plt.figure(figsize=(8, 6))
-plt.pie(sizes, labels=labels, autopct="%1.1f%%", startangle=140)
-plt.axis("equal")
-plt.title(f"Linguagens mais usadas por @{GITHUB_USERNAME}")
+# Configurações de estilo
+plt.style.use('dark_background')  # fundo escuro automático (preto)
+fig, ax = plt.subplots(figsize=(8, 6), facecolor='#0d1117')  # fundo do gráfico
 
-# --- Salvar imagem na pasta output/ ---
-import os
+# Ajusta as cores das labels e percentuais
+def func(pct, allvals):
+    return f"{pct:.1f}%"
+
+wedges, texts, autotexts = ax.pie(
+    sizes,
+    labels=labels,
+    autopct=lambda pct: func(pct, sizes),
+    startangle=140,
+    textprops={'color':"white", 'fontsize':14, 'weight':'bold'}
+)
+
+# Configura fundo do texto das labels e porcentagens
+for txt in texts + autotexts:
+    txt.set_color('white')
+
+ax.axis('equal')
+plt.title(f"Linguagens mais usadas por @{GITHUB_USERNAME}", color='white', fontsize=16, weight='bold')
+
 os.makedirs("output", exist_ok=True)
+plt.savefig("output/linguagens.svg", format="svg", bbox_inches="tight", facecolor=fig.get_facecolor())
+plt.savefig("output/linguagens.png", dpi=300, bbox_inches="tight", facecolor=fig.get_facecolor())
 
-plt.savefig("output/linguagens.png", dpi=300, bbox_inches="tight")
-plt.savefig("output/linguagens.svg", format="svg", bbox_inches="tight")
-
-print("✅ Gráfico gerado com sucesso em /output/")
+print("✅ Gráfico gerado com fundo escuro e texto branco em /output/")
