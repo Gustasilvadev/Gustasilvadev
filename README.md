@@ -31,8 +31,11 @@ Atualmente, estou sempre estudando novas ferramentas e melhores práticas para m
 
 ### 📊 Minhas Estatísticas no GitHub
 
+<p align="center">
+  Confira abaixo o gráfico com as linguagens que mais uso nos meus repositórios.
+</p>
+
 <div align="center">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=Gustasilvadev&show_icons=true&theme=transparent"/>
   <img src="./output/linguagens.svg" width="500px" alt="Gráfico de linguagens mais usadas" />
 </div>
 
