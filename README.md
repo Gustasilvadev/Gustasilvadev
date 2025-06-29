@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Gustavo Martins 👋</h1>
 
 <p align="center">
-  Desenvolvedor Front-end apaixonado por tecnologia, design e soluções inteligentes.
+  Desenvolvedor Front-end e Back-end
 </p>
 
 ---
