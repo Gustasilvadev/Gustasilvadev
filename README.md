@@ -32,7 +32,7 @@ Atualmente, estou sempre estudando novas ferramentas e melhores práticas para m
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustasilvadev&show_icons=true&theme=transparent"/>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=Gustasilvadev&show_icons=true&theme=transparent"/>
   <img src="./output/linguagens.svg" width="500px" alt="Gráfico de linguagens mais usadas" />
 </div>
 
