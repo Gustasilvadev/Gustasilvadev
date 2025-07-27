@@ -31,13 +31,7 @@ Atualmente, estou sempre estudando novas ferramentas e melhores práticas para m
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  Confira abaixo o gráfico com as linguagens que mais uso nos meus repositórios.
-</p>
-
-<div align="center">
-  <img src="./output/linguagens.svg" width="500px" alt="Gráfico de linguagens mais usadas" />
-</div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oj0rel&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 ---
 
