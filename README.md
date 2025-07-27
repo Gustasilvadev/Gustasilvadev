@@ -32,7 +32,7 @@ Atualmente, estou sempre estudando novas ferramentas e melhores práticas para m
 ### 📊 Minhas Estatísticas no GitHub
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustasilvadev&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1" >
----
+
 
 ### 📬 Entre em Contato
 
