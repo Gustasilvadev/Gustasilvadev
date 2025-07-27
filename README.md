@@ -34,7 +34,12 @@ Atualmente, estou sempre estudando novas ferramentas e melhores práticas para m
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustasilvadev&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1" >
 ---
 
+### 📬 Entre em Contato
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavomartinssilva/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustamarsil@gmail.com)  
+
+---
 
 📝 *Este README é atualizado manualmente por mim. Sinta-se à vontade para visitar meus repositórios!*
 
