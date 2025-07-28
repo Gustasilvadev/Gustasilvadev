@@ -5,7 +5,11 @@
 </p>
 
 ---
+👨‍💻 Sobre mim
 
+Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento web, especialmente com Angular, TypeScript e JavaScript, além de ter experiência com linguagens como Python e Java.
+
+---
 🛠️ Tecnologias e Ferramentas
 <table> <thead> <tr> <th>Programming</th> <th>Web Development</th> <th>Design</th> <th>IDEs</th> </tr> </thead> <tbody> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/> </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/> </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> </td> </tr> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40"/> </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> </td> <td></td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40"/> </td> </tr> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/> </td> <td></td> <td></td> </tr> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularmaterial/angularmaterial-original.svg" width="40"/> </td> <td></td> <td></td> </tr> </tbody> </table>
 ---
