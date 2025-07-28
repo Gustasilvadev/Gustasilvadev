@@ -6,14 +6,6 @@
 
 ---
 
-### 🚀 Sobre mim
-
-Sou um desenvolvedor focado em construir aplicações modernas, escaláveis e com ótimo design de interface. Gosto de transformar ideias em interfaces funcionais e intuitivas usando ferramentas como **Angular**, **TypeScript**, **JavaScript** e **Figma**.
-
-Atualmente, estou sempre estudando novas ferramentas e melhores práticas para melhorar meus projetos e entregas.
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
@@ -37,7 +29,7 @@ Atualmente, estou sempre estudando novas ferramentas e melhores práticas para m
 ### 📬 Entre em Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavomartinssilva/)  
-[![Email  ](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustamarsil@gmail.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustamarsil@gmail.com)  
 
 ---
 
