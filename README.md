@@ -1,28 +1,92 @@
 <h1 align="center">Olá! Eu sou o Gustavo Martins 👋</h1>
 
 <p align="center">
-  Desenvolvedor Front-end e Back-end
+  <em>Dev FrontEnd e BackEnd </em>
 </p>
 
 ---
-👨‍💻 Sobre mim
+### 👨‍💻 Sobre
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento web, especialmente com Angular, TypeScript e JavaScript, além de ter experiência com linguagens como Python e Java.
+<p align="center">
+  Tenho interesse em desenvolvimento web, experiência com linguagens como Angular, TypeScript e Java.
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/gustavomartinssilva/">
+      <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+    </a>
+    <a href="mailto:gustamarsil@gmail.com">
+      <img src="https://img.shields.io/badge/-gustamarsil@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+    </a>
+  </p>
+  
+</p>
 
 ---
-🛠️ Tecnologias e Ferramentas
-<table> <thead> <tr> <th>Programming</th> <th>Web Development</th> <th>Design</th> <th>IDEs</th> </tr> </thead> <tbody> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/> </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/> </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> </td> </tr> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40"/> </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> </td> <td></td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40"/> </td> </tr> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/> </td> <td></td> <td></td> </tr> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularmaterial/angularmaterial-original.svg" width="40"/> </td> <td></td> <td></td> </tr> </tbody> </table>
+
+### 🛠️ Ferramentas e Tecnologias
+<div align="center">
+  <table align="center">
+    <thead>
+      <tr>
+        <th>Back End</th>
+        <th>Front End</th>
+        <th>Design</th>
+        <th>IDEs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+          &nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
+        </td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" alt="JavaScript"/>
+          &nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" alt="TypeScript"/>
+        </td>
+        <td></td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" alt="Eclipse"/>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" alt="AngularJS"/>
+          &nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React Native"/>
+        </td>
+        <td></td>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 💻 Tech Stack Highlights
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustasilvadev&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1" >
-
-
-### 📬 Entre em Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavomartinssilva/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustamarsil@gmail.com)  
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustasilvadev&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1" >
+</p>
 
 ---
 
