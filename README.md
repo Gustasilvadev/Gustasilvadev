@@ -87,7 +87,12 @@
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustasilvadev&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1" >
 </p>
-
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Gustasilvadev&theme=codeSTACKr&hide_border=true" width="41%">
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gustasilvadev&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false" width="41%">
+</p>
 ---
 
 📝 *Este README é atualizado manualmente por mim. Sinta-se à vontade para visitar meus repositórios!*
