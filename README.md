@@ -39,6 +39,9 @@
   <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" style="margin: 5px;"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" style="margin: 5px;"/>
 </p>
+
+---
+
 ### 💻 Destaques
 
 <p align="center">
