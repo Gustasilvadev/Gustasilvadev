@@ -24,64 +24,21 @@
 ---
 
 ### 🛠️ Ferramentas e Tecnologias
-<div align="center">
-  <table align="center">
-    <thead>
-      <tr>
-        <th>Back End</th>
-        <th>Front End</th>
-        <th>Design</th>
-        <th>IDEs</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-        </td>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-          &nbsp;&nbsp;
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-        </td>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-        </td>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
-        </td>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" alt="JavaScript"/>
-          &nbsp;&nbsp;
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" alt="TypeScript"/>
-        </td>
-        <td></td>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" alt="Eclipse"/>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" alt="AngularJS"/>
-          &nbsp;&nbsp;
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React Native"/>
-        </td>
-        <td></td>
-        <td align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
----
-
+<p align="center">
+  <!-- Primeira Linha -->
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" style="margin: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" style="margin: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" style="margin: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" style="margin: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" style="margin: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" style="margin: 5px;"/>
+  <br>
+  <!-- Segunda Linha -->
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" style="margin: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" style="margin: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" style="margin: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" style="margin: 5px;"/>
+</p>
 ### 💻 Destaques
 
 <p align="center">
