@@ -8,16 +8,16 @@
 ### 👨‍💻 Sobre
 
 <p align="center">
-  Tenho interesse em desenvolvimento web, experiência com linguagens como Angular, TypeScript e Java.
+  Tenho interesse em desenvolvimento web, experiência com linguagens como Angular, TypeScript, React e Java.
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/gustavomartinssilva/">
-      <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
-    </a>
-    <a href="mailto:gustamarsil@gmail.com">
-      <img src="https://img.shields.io/badge/-gustamarsil@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavomartinssilva/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gustamarsil@gmail.com">
+    <img src="https://img.shields.io/badge/-gustamarsil@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
   
 </p>
 
@@ -25,19 +25,11 @@
 
 ### 🛠️ Ferramentas e Tecnologias
 <p align="center">
-  <!-- Primeira Linha -->
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" style="margin: 5px;"/>
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" style="margin: 5px;"/>
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" style="margin: 5px;"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" style="margin: 5px;"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" style="margin: 5px;"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" style="margin: 5px;"/>
-  <br>
-  <!-- Segunda Linha -->
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" style="margin: 5px;"/>
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" style="margin: 5px;"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" style="margin: 5px;"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" style="margin: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css" alt="Front-end Stack" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,github" alt="Back-end and Tools" />
 </p>
 
 ---
@@ -45,14 +37,11 @@
 ### 💻 Destaques
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustasilvadev&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1" >
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustasilvadev&show_icons=true&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustasilvadev&layout=compact&title_color=3b82f6&text_color=ffffff&bg_color=00000000&hide_border=true&langs_count=6&locale=pt-br" />
 </p>
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Gustasilvadev&theme=codeSTACKr&hide_border=true" width="41%">
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gustasilvadev&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false" width="41%">
-</p>
+
 ---
 
 📝 *Este README é atualizado manualmente por mim. Sinta-se à vontade para visitar meus repositórios!*
