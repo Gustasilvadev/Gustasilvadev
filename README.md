@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,github" alt="Back-end and Tools" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,github,nodejs" alt="Back-end and Tools" />
 </p>
 
 ---
